@@ -1,16 +1,20 @@
 h2. INSTALLATION
 
-<code>
-  script/plugin install git://github.com/spiderman/remarkable_you_name_it.git
-</code>
+<pre>
+  <code>
+    script/plugin install git://github.com/spiderman/remarkable_you_name_it.git
+  </code>
+</pre>
 
 h2. USAGE:
 
-<code>
-  describe Spiderman do
-    should_have_a_name :peter
-  end
-</code>
+<pre>
+  <code>
+    describe Spiderman do
+      should_have_a_name :peter
+    end
+  </code>
+</pre>
 
 h2. LICENSE:
 
